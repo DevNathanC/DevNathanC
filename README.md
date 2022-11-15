@@ -10,7 +10,7 @@ $ apt get install nathan
 
 :star: Eu sou um desenvolvedor Front-end!
 
-:star: Eu sou apaixonado por Programação, Games e tecnologia
+:star: Eu sou apaixonado por Programação, Leitura e tecnologia
 
 :star: Estudante de Analise e Desenvolvimento de Sistemas
 
