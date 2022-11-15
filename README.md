@@ -1,4 +1,4 @@
-# Olá, Eu sou o Nathan <img src="https://media2.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47aum94mscvqsztewng1sxl3gzugdcp4ffigp22nle&rid=giphy.gif&ct=g" width="30px">
+# Olá, Eu sou o Nathan <img src="https://media2.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47aum94mscvqsztewng1sxl3gzugdcp4ffigp22nle&rid=giphy.gif&ct=g" width="60px">
 
 :star: Abra seu terminal o terminal e execute:
 
